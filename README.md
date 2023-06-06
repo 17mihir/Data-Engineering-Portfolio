@@ -9,7 +9,8 @@ The purpose of this project is to build an ETL pipeline that will be able to pro
 
 The purpose of this project was to build a dynamic ETL data pipeline that utilizes automation and monitoring. The data pipeline is built from reusable tasks allows for easy backfills. It utilizes custom operators to perform tasks such as staging the data, filling the data warehouse, and running a check on the data as the final step so as to to catch any discrepancies in the datasets.
 
-Sparkify Data Warehouse Project for song play analysis
+'[Sparkify Data Warehouse Project for song play analysis](https://github.com/17mihir/Sparkify-Data-Warehouse-Project-for-song-play-analysis.git)'
+
 The purpose of this project is to build an ETL pipeline that will be able to extract song data from an S3 bucket and transform that data to make it suitable for analysis. This data can be used with business intelligence and visualization apps that will help the analytics team to better understand what songs are commonly listened to on the app.
 
 UDEND Sparkify Data Lake Project with Apache Spark
