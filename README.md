@@ -13,7 +13,8 @@ The purpose of this project was to build a dynamic ETL data pipeline that utiliz
 
 The purpose of this project is to build an ETL pipeline that will be able to extract song data from an S3 bucket and transform that data to make it suitable for analysis. This data can be used with business intelligence and visualization apps that will help the analytics team to better understand what songs are commonly listened to on the app.
 
-UDEND Sparkify Data Lake Project with Apache Spark
+'[Sparkify Data Lake Project with Apache Spark](https://github.com/17mihir/Sparkify-Data-Lake-Project-with-Apache-Spark.git)'
+
 The purpose of this project was to build an ETL pipeline that will be able to extract song and log data from an S3 bucket, process the data using Spark and load the data back into s3 as a set of dimensional tables in spark parquet files. This helps analysts to continue finding insights on what their users are listening to.
 
 Spark Streaming Project
