@@ -17,7 +17,7 @@ The purpose of this project is to build an ETL pipeline that will be able to ext
 
 The purpose of this project was to build an ETL pipeline that will be able to extract song and log data from an S3 bucket, process the data using Spark and load the data back into s3 as a set of dimensional tables in spark parquet files. This helps analysts to continue finding insights on what their users are listening to.
 
-Spark Streaming Project
+'[Spark Streaming Project](https://github.com/17mihir/Spark-Streaming-Project.git)'
 The purpose of this project was to create a Kafka server to produce data and ingest data through Spark Structured Streaming.
 
 Public Transit Status with Apache Kafka
