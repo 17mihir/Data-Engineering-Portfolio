@@ -21,6 +21,6 @@ The purpose of this project was to build an ETL pipeline that will be able to ex
 
 The purpose of this project was to create a Kafka server to produce data and ingest data through Spark Structured Streaming.
 
-'[Public Transit Status with Apache Kafka](https://github.com/17mihir/Public-Transit-Status-with-Apache-Kafka.git)'
+'[Chicago Transit Authority Public Transit Status with Apache Kafka](https://github.com/17mihir/Public-Transit-Status-with-Apache-Kafka.git)'
 
 In this project, I constructed a streaming event pipeline around Apache Kafka and its ecosystem. Using public data from the Chicago Transit Authority I built an event pipeline around Kafka that allows me to simulate and display the status of train lines in real time.
