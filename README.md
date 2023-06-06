@@ -1,11 +1,11 @@
-# Stackfolio's Data Engineer & Data Streaming Projects I worked on
-My Portfolio of all the projects I did for both my Udacity Data Engineer and Data Streaming Nanodegrees
+# Real World Data Engineer & ML Engineering Projects I worked on
+My Portfolio of all the projects I did for both my Stackfolio's Data Engineer and ML Engineering Projects.
 
 '[Stackfolio's Data Engineer Capstone Project](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)'
 
 The purpose of this project is to build an ETL pipeline that will be able to provide information to data analysts, immigration and climate researchers etc with temperature, population and immigration statistics for different cities. It does this by first extracting temperature, airport, immigration and demographic data from various datasets, perform some transformation on it and convert the data into json files using Apache Spark that can be then uploaded to a Redshift database. Using Apache Airflow, the json files get migrated to s3, then the data gets uploaded to Redshift, undergoes further transformation and gets loaded to normalized fact and dimension tables using a series of reusable tasks that allow for easy backfills. Finally, data checks are run against the data in the fact and dimension tables so as to catch any discrepancies that might be found in the data.
 
-'[Stackfolio's Sparkify Data Pipeline Project with Apache Airflow](https://github.com/17mihir/Stackfolio-s-Sparkify-Data-Pipeline-Project-with-Apache-Airflow.git)'
+'[Lyft's Sparkify Data Pipeline Project with Apache Airflow](https://github.com/17mihir/Stackfolio-s-Sparkify-Data-Pipeline-Project-with-Apache-Airflow.git)'
 
 The purpose of this project was to build a dynamic ETL data pipeline that utilizes automation and monitoring. The data pipeline is built from reusable tasks allows for easy backfills. It utilizes custom operators to perform tasks such as staging the data, filling the data warehouse, and running a check on the data as the final step so as to to catch any discrepancies in the datasets.
 
