@@ -1,7 +1,7 @@
 # Stackfolio's Data Engineer & Data Streaming Projects I worked on
 My Portfolio of all the projects I did for both my Udacity Data Engineer and Data Streaming Nanodegrees
 
-Stackfolio's Data Engineer Capstone Project
+'[Stackfolio's Data Engineer Capstone Project](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)'
 
 The purpose of this project is to build an ETL pipeline that will be able to provide information to data analysts, immigration and climate researchers etc with temperature, population and immigration statistics for different cities. It does this by first extracting temperature, airport, immigration and demographic data from various datasets, perform some transformation on it and convert the data into json files using Apache Spark that can be then uploaded to a Redshift database. Using Apache Airflow, the json files get migrated to s3, then the data gets uploaded to Redshift, undergoes further transformation and gets loaded to normalized fact and dimension tables using a series of reusable tasks that allow for easy backfills. Finally, data checks are run against the data in the fact and dimension tables so as to catch any discrepancies that might be found in the data.
 UDEND Sparkify Data Pipeline Project with Apache Airflow
