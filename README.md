@@ -1,9 +1,10 @@
-# Real World Data Engineer & ML Engineering Projects I worked on
+# My Bonafide Work Experience and Externship Projects I have undertaken
 My Portfolio of all the projects I did for both my Stackfolio's Data Engineer and ML Engineering Projects.
 
-'[Skymet-Weather-Forecast-s-automated-data-pipeline-for-temperature-and-immigration-information.](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)'
+##'[Tiger Analytics ETL Pipeline Project.](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)'
 
-The purpose of this project is to build an ETL pipeline that will be able to provide information to data analysts, immigration and climate researchers etc with temperature, population and immigration statistics for different cities. It does this by first extracting temperature, airport, immigration and demographic data from various datasets, perform some transformation on it and convert the data into json files using Apache Spark that can be then uploaded to a Redshift database. Using Apache Airflow, the json files get migrated to s3, then the data gets uploaded to Redshift, undergoes further transformation and gets loaded to normalized fact and dimension tables using a series of reusable tasks that allow for easy backfills. Finally, data checks are run against the data in the fact and dimension tables so as to catch any discrepancies that might be found in the data.
+This project aims to build an ETL pipeline to provide temperature, population, and immigration statistics for different cities. It involves extracting data from multiple datasets, transforming it with Apache Spark, and converting it into JSON files. The JSON files are then uploaded to a Redshift database via Apache Airflow and S3. Further transformations and loading occur in normalized fact and dimension tables using reusable tasks. Data checks are performed to ensure data accuracy and integrity.
+- Feature 1
 
 '[Hungama Music Data Pipeline Project with Apache Airflow](https://github.com/17mihir/Stackfolio-s-Sparkify-Data-Pipeline-Project-with-Apache-Airflow.git)'
 
