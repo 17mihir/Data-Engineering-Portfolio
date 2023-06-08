@@ -3,8 +3,15 @@ My Portfolio of all the projects I did for both my Stackfolio's Data Engineer an
 
 ## '[Tiger Analytics ETL Pipeline Project.](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)'
 
-This project aims to build an ETL pipeline to provide temperature, population, and immigration statistics for different cities. It involves extracting data from multiple datasets, transforming it with Apache Spark, and converting it into JSON files. The JSON files are then uploaded to a Redshift database via Apache Airflow and S3. Further transformations and loading occur in normalized fact and dimension tables using reusable tasks. Data checks are performed to ensure data accuracy and integrit
-> Steps to install and run the project
+This project aims to build an ETL pipeline to provide temperature, population, and immigration statistics for different cities. It involves extracting data from multiple datasets, transforming it with Apache Spark, and converting it into JSON files. The JSON files are then uploaded to a Redshift database via Apache Airflow and S3. Further transformations and loading occur in normalized fact and dimension tables using reusable tasks. Data checks are performed to ensure data accuracy and integrity
+> Extract data from multiple datasets.
+> Transform and convert data into JSON using Apache Spark.
+> Upload JSON files to Redshift database.
+> Migrate files to S3 with Apache Airflow.
+> Perform further transformations in Redshift.
+> Load data into normalized fact and dimension tables.
+> Use reusable tasks for backfills and efficient processing.
+> Run data checks to ensure accuracy in tables.
 
 '[Hungama Music Data Pipeline Project with Apache Airflow](https://github.com/17mihir/Stackfolio-s-Sparkify-Data-Pipeline-Project-with-Apache-Airflow.git)'
 
