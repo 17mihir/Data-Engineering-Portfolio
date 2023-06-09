@@ -2,7 +2,6 @@
 My Portfolio of all the projects I did for both my Stackfolio's Data Engineer and ML Engineering Projects.
 
 ## [Tiger Analytics ETL Pipeline Project.](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)
-![Alt Text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.databricks.com%2Fsites%2Fdefault%2Ffiles%2F2020%2F08%2Fblog-accelerate-etl-1-og.png&tbnid=VEs1lVDfU6tjqM&vet=12ahUKEwi3pYLOr7X_AhXKkNgFHdS4DPIQMygDegUIARDCAQ..i&imgrefurl=https%3A%2F%2Fwww.databricks.com%2Fblog%2F2020%2F08%2F18%2Fhow-to-accelerate-your-etl-pipelines-from-18-hours-to-as-fast-as-5-minutes-with-azure-databricks.html&docid=qBpi9Csd3X09jM&w=1200&h=630&q=data%20etl%20pipeline%20architecture%20diagram&ved=2ahUKEwi3pYLOr7X_AhXKkNgFHdS4DPIQMygDegUIARDCAQ)
 
 
 This project aims to build an ETL pipeline to provide temperature, population, and immigration statistics for different cities. It involves extracting data from multiple datasets, transforming it with Apache Spark, and converting it into JSON files. The JSON files are then uploaded to a Redshift database via Apache Airflow and S3. Further transformations and loading occur in normalized fact and dimension tables using reusable tasks. Data checks are performed to ensure data accuracy and integrity
