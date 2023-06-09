@@ -3,7 +3,7 @@ My Portfolio of all the projects I did for both my Stackfolio's Data Engineer an
 
 ## [Tiger Analytics ETL Pipeline Project.](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)
 
-![Alt Text](https://github.com/17mihir/stackfolio.co/resources/images/ETL Image.png)
+
 
 <p align="center">
   <img src="https://github.com/17mihir/stackfolio.co/resources/images/ETL Image.png"/>
