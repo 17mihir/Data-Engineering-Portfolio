@@ -21,10 +21,13 @@ The purpose of this project is to build an ETL pipeline that will be able to ext
 <p align="center">
   <img src="https://github.com/17mihir/Data-Engineering-Portfolio/assets/129212691/e6e2c75b-eb79-43a3-b513-135da577be12" alt="Image Description">
 </p>
+
 ## [Spotify Data Lake Project with Apache Spark](https://github.com/17mihir/Sparkify-Data-Lake-Project-with-Apache-Spark.git)
 
 The purpose of this project was to build an ETL pipeline that will be able to extract song and log data from an S3 bucket, process the data using Spark and load the data back into s3 as a set of dimensional tables in spark parquet files. This helps analysts to continue finding insights on what their users are listening to.
-
+<p align="center">
+  <img src="https://github.com/17mihir/Data-Engineering-Portfolio/assets/129212691/099d5a45-1c97-43e0-9eb2-67b744ba03ef" />
+</p>
 ## [Tredence Spark Streaming Project](https://github.com/17mihir/Spark-Streaming-Project.git)
 
 The purpose of this project was to create a Kafka server to produce data and ingest data through Spark Structured Streaming.
