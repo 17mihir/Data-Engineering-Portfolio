@@ -1,5 +1,8 @@
 # My Bonafide Work Experience and Externship Projects I have undertaken
 My Portfolio of all the projects I did for both my Stackfolio's Data Engineer and ML Engineering Projects.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/17mihir/Stackfolio/resources/images>
+</p>
 
 ## [Tiger Analytics ETL Pipeline Project.](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)
 
