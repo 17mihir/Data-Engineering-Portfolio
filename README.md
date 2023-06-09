@@ -39,3 +39,6 @@ The purpose of this project was to create a Kafka server to produce data and ing
 ## [Chicago Transit Authority Public Transit Status with Apache Kafka](https://github.com/17mihir/Public-Transit-Status-with-Apache-Kafka.git)
 
 In this project, I constructed a streaming event pipeline around Apache Kafka and its ecosystem. Using public data from the Chicago Transit Authority I built an event pipeline around Kafka that allows me to simulate and display the status of train lines in real time.
+<p align="center">
+    <img src="https://github.com/17mihir/Data-Engineering-Portfolio/assets/129212691/048c4ee5-8cd4-4771-9681-bdbe54326c25" alt="Kafka Internals">
+</p>
