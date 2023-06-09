@@ -3,7 +3,7 @@ My Portfolio of all the projects I did for both my Stackfolio's Data Engineer an
 
 ## [Tiger Analytics ETL Pipeline Project.](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)
 
-![Alt Text](17mihir/stackfolio.co/resources/images/ETL Image.png)
+![Alt Text](https://github.com/17mihir/stackfolio.co/resources/images/ETL Image.png)
 
 This project aims to build an ETL pipeline to provide temperature, population, and immigration statistics for different cities. It involves extracting data from multiple datasets, transforming it with Apache Spark, and converting it into JSON files. The JSON files are then uploaded to a Redshift database via Apache Airflow and S3. Further transformations and loading occur in normalized fact and dimension tables using reusable tasks. Data checks are performed to ensure data accuracy and integrity
 
