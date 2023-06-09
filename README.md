@@ -11,6 +11,9 @@ This project aims to build an ETL pipeline to provide temperature, population, a
 ## [Shiprocket Data Pipline Project with Apache Airflow](https://github.com/17mihir/Stackfolio-s-Sparkify-Data-Pipeline-Project-with-Apache-Airflow.git)
 
 The purpose of this project was to build a dynamic ETL data pipeline that utilizes automation and monitoring. The data pipeline is built from reusable tasks allows for easy backfills. It utilizes custom operators to perform tasks such as staging the data, filling the data warehouse, and running a check on the data as the final step so as to to catch any discrepancies in the datasets.
+<p align="center">
+  <img src="https://github.com/17mihir/Data-Engineering-Portfolio/assets/129212691/3ed37dd9-5003-4d63-87d9-a9dd94be3b04" alt="Image Description">
+</p>
 
 ## [Juspay Data Warehouse Project](https://github.com/17mihir/Sparkify-Data-Warehouse-Project-for-song-play-analysis.git)
 
