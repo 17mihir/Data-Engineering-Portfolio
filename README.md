@@ -2,6 +2,7 @@
 My Portfolio of all the projects I did for both my Stackfolio's Data Engineer and ML Engineering Projects.
 
 ## [Tiger Analytics ETL Pipeline Project.](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)
+![ETL Image](https://github.com/17mihir/Data-Engineering-Portfolio/assets/129212691/38ff2490-e319-4a81-956c-51f6dce85faf)
 
 
 
