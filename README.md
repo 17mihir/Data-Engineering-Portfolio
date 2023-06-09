@@ -1,11 +1,9 @@
 # My Bonafide Work Experience and Externship Projects I have undertaken
 My Portfolio of all the projects I did for both my Stackfolio's Data Engineer and ML Engineering Projects.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/17mihir/Stackfolio/resources/images>
-</p>
 
 ## [Tiger Analytics ETL Pipeline Project.](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/17mihir/Stackfolio/resources/images>
 
 This project aims to build an ETL pipeline to provide temperature, population, and immigration statistics for different cities. It involves extracting data from multiple datasets, transforming it with Apache Spark, and converting it into JSON files. The JSON files are then uploaded to a Redshift database via Apache Airflow and S3. Further transformations and loading occur in normalized fact and dimension tables using reusable tasks. Data checks are performed to ensure data accuracy and integrity
 
