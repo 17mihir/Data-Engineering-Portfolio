@@ -1,5 +1,5 @@
-# Your Future Bonafide Work Experience and Externship Projects with Microsoft Partnered Companies
-Your Future Portfolio for the projects with Microsoft Partnered Companies in Data Engineer and ML Engineering Projects.
+# Your Future Bonafide Work Experience and Externship Projects to Impress Recruiters
+Embark on Your Future Portfolio Journey: Data Engineer and ML Engineering Projects with Microsoft Partnered Companies
 
 ## [Tiger Analytics ETL Pipeline Project.](https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git)
 
